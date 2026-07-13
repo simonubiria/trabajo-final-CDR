@@ -1,0 +1,22 @@
+---
+title: "trabajofinalCDR_presentacion"
+format: html
+editor: visual
+---
+# trabajo-final-CDR
+
+1. Introduccion:
+El fenemeno de interes en este trabajo, es hacer una busqueda y analizar datos de los ultimos años de la NBA (1990-2017),
+algunas de las variables que utilizaremos del dataset obtenido en Kaggle son, por jugador y por temporada, la cantidad de anotaciones,
+peso, equipo en el que juega, partidos jugados, minutos jugados, asistencias, rebotes, robos, triples etc.
+Ademas nos interesa
+
+2. Datos.
+   Casi todas nuestras variables son numericas, solo 3 de ellas son de tipo de caracteres, que pasaremos a factor mas adelante,
+   nuestra fuente es de un dataset de Kaggle, publicado por "Omri Goldstein" hace 8 años.
+   https://www.kaggle.com/datasets/drgilermo/nba-players-stats?resource=download
+   El dataset no contiene elementos Na.
+   
+3.   
+   
+   
